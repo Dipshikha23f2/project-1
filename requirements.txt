@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pillow
-faker
-openai==0.28.0
-requests
-httpx
-numpy
-python-dateutil
